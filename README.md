@@ -1,0 +1,16 @@
+<h1>Nice to meet you! I'm Ilse. <br/><a href="www.linkedin.com/in/ilse-schmitz">my LinkedIn</a></h1>
+
+<h2>My Projects:</h2>
+
+- <b>Java</b>
+  - Nothing to see here...
+- <b>HTML and CSS</b>
+  - Nothing to see here either...
+- <b>python</b>
+  - Really?...okay...
+- <b>SQL and Databases</b>
+  - Again? For real?
+<h2> Connect with me:</h2>
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://www.svgrepo.com/show/475661/linkedin-color.svg" />][linkedin]
+[linkedin]: www.linkedin.com/in/ilse-schmitz
