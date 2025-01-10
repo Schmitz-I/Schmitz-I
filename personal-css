@@ -1,0 +1,51 @@
+body {
+  background-color: #D8D2E1;
+}
+
+p, h2 {
+  /* background-color: blanchedalmond; */
+  color: #363732;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+  text-decoration: underline;
+}
+
+h1 {
+  font-size: 64pt;
+  font-family: 'Lavishly Yours', cursive;
+}
+
+img {
+  height: 250px;
+}
+
+.wiggly {
+  color: lightskyblue;
+  background-color: darkolivegreen;
+}
+
+#firstParagraph {
+  font-size: 32pt;
+}
+
+#display {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+
+#flextest {
+  flex-grow: 4;
+  align-self: flex-end;
+}
+
+button {
+  border: solid hotpink;
+}
+
+#TotalMoney {
+  color: black;
+}
