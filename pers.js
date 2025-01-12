@@ -9,7 +9,6 @@
    */
   function init() {
     let img = document.querySelector("img");
-    console.log("hello!!!");
     img.addEventListener("click", changeText);
   }
 
