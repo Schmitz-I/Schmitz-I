@@ -3,7 +3,7 @@
 <h2>My Projects:</h2>
 
 - <b>Java</b>
-  - Nothing to see here...
+  - [Huffman Coding](https://github.com/Schmitz-I/Huffman-Coding)
 - <b>HTML and CSS</b>
   - [Personal Website](https://github.com/Schmitz-I/Schmitz-I/blob/main/Schmitz%20I%20Personal%20Website.html)
 - <b>python</b>
