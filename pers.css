@@ -7,6 +7,10 @@
  */
 body {
   background-color: #D8D2E1; /* Purple */
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 80px;
+  margin-left: 80px;
 }
 
 p, h2 {
@@ -15,25 +19,12 @@ p, h2 {
 }
 
 p {
-  text-decoration: underline;
+  font-size: 12pt;
 }
 
 h1 {
   font-size: 64pt;
   font-family: "Times New Roman", Times, serif;
-}
-
-img {
-  height: 250px;
-}
-
-.wiggly {
-  color:  #A30B37; /* Red */
-  background-color: #DCEAB2; /* Green */
-}
-
-#firstParagraph {
-  font-size: 32pt;
 }
 
 #display {
@@ -42,16 +33,7 @@ img {
   flex-wrap: wrap;
 }
 
-
 #flextest {
   flex-grow: 4;
   align-self: flex-end;
-}
-
-button {
-  border: solid #BD6B73; /* Pink */
-}
-
-#TotalMoney {
-  color: black;
 }
