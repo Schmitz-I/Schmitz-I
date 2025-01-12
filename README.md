@@ -5,7 +5,7 @@
 - <b>Java</b>
   - Nothing to see here...
 - <b>HTML and CSS</b>
-  - Nothing to see here either...
+  - [Personal Website](https://github.com/Schmitz-I/Schmitz-I/blob/main/Schmitz%20I%20Personal%20Website.html)
 - <b>python</b>
   - Really?...okay...
 - <b>SQL and Databases</b>
@@ -13,4 +13,3 @@
 <h2> Connect with me:</h2>
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://www.svgrepo.com/show/475661/linkedin-color.svg" />][linkedin]
-[linkedin]: www.linkedin.com/in/ilse-schmitz
