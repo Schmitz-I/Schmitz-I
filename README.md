@@ -8,7 +8,7 @@
   - [Personal Website](https://github.com/Schmitz-I/Schmitz-I/blob/main/Schmitz%20I%20Personal%20Website.html)
 - <b>python</b>
   - [Math modeling](https://github.com/Schmitz-I/AMATH-481/blob/main/HW6.ipynb)
-  - [Working with SpaCy](CSE Resume Project.ipynb)
+  - [Working with SpaCy](https://github.com/Schmitz-I/CSE-163/blob/main/CSE%20Resume%20Project.ipynb)
 <h2> Connect with me:</h2>
 
 [www.linkedin.com/in/ilse-schmitz]
