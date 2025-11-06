@@ -6,7 +6,7 @@
 - **python**  
   - [Applicant Tracking System](https://github.com/Schmitz-I/CSE-163/blob/main/CSE%20Resume%20Project.ipynb)  
   - [Reaction-Diffusion System](https://github.com/Schmitz-I/AMATH-481/blob/main/HW6.ipynb)
-  - [Entropy Modeling of Amino Acid Mutation](404)
+  - [Entropy Modeling of Amino Acid Mutation](https://github.com/Schmitz-I/showcase/blob/main/AMATH_383_Project.pdf)
 - **AI and Machine Learning**
   - [Stock Price prediction using Machine Learning](https://github.com/Schmitz-I/showcase/blob/main/CFRM521_Final_Report_Group6.pdf)
 - **R and RStudio**
