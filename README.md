@@ -10,7 +10,7 @@
 - **AI and Machine Learning**
   - [Stock Price prediction using Machine Learning](https://github.com/Schmitz-I/showcase/blob/main/CFRM521_Final_Report_Group6.pdf)
 - **R and RStudio**
-  - [King County Housing Price Predictor](404)
+  - [King County Housing Price Predictor](https://github.com/Schmitz-I/showcase/blob/main/STAT403/Project_template.pdf)
 - **Data Visualization**
   - [California Wildfire Visualization](404)
 - **Java**  
@@ -21,3 +21,4 @@
 ## Connect with me:
 
 [www.linkedin.com/in/ilse-schmitz]
+
