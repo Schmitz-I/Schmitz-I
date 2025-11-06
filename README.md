@@ -5,7 +5,14 @@
 
 - **python**  
   - [Applicant Tracking System](https://github.com/Schmitz-I/CSE-163/blob/main/CSE%20Resume%20Project.ipynb)  
-  - [Reaction-Diffusion System](https://github.com/Schmitz-I/AMATH-481/blob/main/HW6.ipynb)  
+  - [Reaction-Diffusion System](https://github.com/Schmitz-I/AMATH-481/blob/main/HW6.ipynb)
+  - [Entropy Modeling of Amino Acid Mutation](404)
+- **AI and Machine Learning**
+  - [Stock Price prediction using Machine Learning](https://github.com/Schmitz-I/showcase/blob/main/CFRM521_Final_Report_Group6.pdf)
+- **R and RStudio**
+  - [King County Housing Price Predictor](404)
+- **Data Visualization**
+  - [California Wildfire Visualization](404)
 - **Java**  
   - [Huffman Coding](https://github.com/Schmitz-I/Huffman-Coding)  
 - **HTML and CSS**  
