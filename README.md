@@ -12,7 +12,8 @@
 - **R and RStudio**
   - [King County Housing Price Predictor](https://github.com/Schmitz-I/showcase/blob/main/STAT403/Project_template.pdf)
 - **Data Visualization**
-  - [California Wildfire Visualization](404)
+  - [California Wildfire Visualization](https://github.com/Schmitz-I/showcase/blob/main/GROUP%2046%20Cali%20Wildfire%20Data.pdf)
+    - [Kaggle Dataset](https://www.kaggle.com/datasets/vijayveersingh/the-california-wildfire-data)
 - **Java**  
   - [Huffman Coding](https://github.com/Schmitz-I/Huffman-Coding)  
 - **HTML and CSS**  
